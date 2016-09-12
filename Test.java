@@ -9,7 +9,7 @@ import loging.SocketController;
 public class Test {
 
     static Loger loger = Loger.getLoger(Test.class.getName());
-    static Loger loger1 = Loger.getLoger("mylog");
+    static Loger loger1 = Loger.getLoger("mylog1");
 
 
 
